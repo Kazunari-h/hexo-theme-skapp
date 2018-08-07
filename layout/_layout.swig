@@ -50,5 +50,6 @@
     {% endblock %}
 
     {% include './_partial/common/math.swig' %}
+    <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </body>
 </html>
